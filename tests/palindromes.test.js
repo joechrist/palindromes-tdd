@@ -1,4 +1,4 @@
-const palindromes = require('./palindromes');
+const palindromes = require('../palindromes');
 
 // Test suite 1
 describe('palindromes()', () => {
